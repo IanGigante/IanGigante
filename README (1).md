@@ -35,20 +35,6 @@ Test Automation Frameworks / Tools
 * Jenkins
 
 
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-gigante-a663ab11a/)
-
-[![github](
-https://github.githubassets.com/favicons/favicon.png)](https://github.com/IanGigante)
-
-
-
-## How to reach me
-
-📫 You may message me via linkedIn or email me at i_gigante@yahoo.com
-
-
 
 ## ⌨ Work Experience
 
@@ -86,3 +72,18 @@ https://github.githubassets.com/favicons/favicon.png)](https://github.com/IanGig
   - Integration Lead, Test Data and Test Environment Manager
   **_Technologies used:_** Java, MS SQL, Microsoft TFS, RQM
 #
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-gigante-a663ab11a/)
+
+[![github](
+https://github.githubassets.com/favicons/favicon.png)](https://github.com/IanGigante)
+
+
+
+## How to reach me
+
+📫 You may message me via linkedIn or email me at i_gigante@yahoo.com
+
