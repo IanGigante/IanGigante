@@ -1,9 +1,4 @@
 
-# Ian Gigante
-
-Senior Test Automation Engineer / Test Lead
-
-
 ## 🚀 About Me
 As a Test Automation Engineer, I have applied my skills to develop, and execute automated tests for various banking software solutions, POS systems, Web Apps and Mobile Apps. I worked with a team of engineers and analysts to ensure the quality, performance, and security of the products, and to identify and resolve any issues or defects. I also contributed to the continuous improvement of the testing processes and tools, and to the documentation and reporting of the test results and metrics. 
 
