@@ -5,7 +5,7 @@ Senior Test Automation Engineer / Test Lead
 
 
 ## 🚀 About Me
-As a Test Automation Engineer, I have applied my skills in SQL, Oracle, and Toad to design, develop, and execute automated tests for various banking software solutions, POS systems, Web Apps and Mobile Apps. I worked with a team of engineers and analysts to ensure the quality, performance, and security of the products, and to identify and resolve any issues or defects. I also contributed to the continuous improvement of the testing processes and tools, and to the documentation and reporting of the test results and metrics. 
+As a Test Automation Engineer, I have applied my skills to develop, and execute automated tests for various banking software solutions, POS systems, Web Apps and Mobile Apps. I worked with a team of engineers and analysts to ensure the quality, performance, and security of the products, and to identify and resolve any issues or defects. I also contributed to the continuous improvement of the testing processes and tools, and to the documentation and reporting of the test results and metrics. 
 
 I am passionate about learning new things and solving problems, and I enjoy collaborating with others to deliver high-quality and innovative solutions. I am always looking for opportunities to grow and develop as a test automation engineer, and to contribute to the success of the organization and the industry.
 
@@ -71,7 +71,6 @@ Test Automation Frameworks / Tools
   - Conducted brownbag and KT sessions to upskill the functional and technical knowledge of the QA Team members
   - Integration Lead, Test Data and Test Environment Manager
   **_Technologies used:_** Java, MS SQL, Microsoft TFS, RQM
-#
 
 
 ## 🔗 Links
