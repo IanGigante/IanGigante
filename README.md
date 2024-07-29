@@ -59,7 +59,7 @@ Test Automation Frameworks / Tools
 **_Technologies used:_** Javascript, Mocha, Chai, Saucelabs, Jira, Gitlab
 #
 
-**Software Engineer** @ [Accenture Inc](https://www.ibm.com/) (Jan 2014 - Aug 2017)
+**Software Engineer** @ [Accenture Inc](https://www.accenture.com/ph-en) (Jan 2014 - Aug 2017)
   - Lead (Test) multiple projects in a single release.
   - Created Test Strategy, Test Plan, Test Estimation, Test Pack (Test Scenarios,Test Cases, Test Scripts), Test Service Manual)
   - Automated Test Data Creation using RFT (Rational Functinal Tool)
